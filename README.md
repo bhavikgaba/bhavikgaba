@@ -1,1 +1,1 @@
-![Hacktoberfest 2024 Badge](https://www.holopin.io/hacktoberfest2024/userbadge/cm1ox56mu00260cjvbe2uk09o?balloons=true)
+![Hacktoberfest 2024 Badge](https://assets.holopin.io/hf2024levels/level0-sloth-code-0-0-0-0.webp)
